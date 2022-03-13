@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I’m life-long learner who loves being challenged!
+I’m a life-long learner who loves being challenged!

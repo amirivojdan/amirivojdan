@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ahmad Amirivojdan
+## Hi there 👋 I'm Ahmad Amirivojdan,
 
 A first year PhD student in Biosystems Engineering doing research in [Smart Agriculture Lab](https://www.ut-smartagriculture.com/).
 <br>

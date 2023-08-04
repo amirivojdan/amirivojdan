@@ -2,4 +2,4 @@
 
 A Ph.D. student in Biosystems Engineering doing research @ [Smart Agriculture Lab](https://www.ut-smartagriculture.com/).
 <br>
-My research focuses on applying Computer Vision, Machine Learning, and Robotic techniques to perform demanding jobs in farming industry.
+In my research, I focus on integrating computer vision, machine learning, and IoT advancements to address various challenges within the agricultural sector.
